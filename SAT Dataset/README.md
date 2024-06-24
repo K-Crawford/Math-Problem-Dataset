@@ -6,7 +6,7 @@ Source: [https://huggingface.co/datasets/hendrycks/competition_math](https://git
 
 - question: multiple choice SAT question in LaTex.
 
-- options: multiple choice options.
+- options: multiple choice options as a list.
 
 - correct_answer: correct multiple choice letter.
 
