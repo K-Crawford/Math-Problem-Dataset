@@ -1,5 +1,7 @@
 ## Art of Problem Solving Dataset
 
+*Note: Complete Dataset is in Zip File*
+
 Source: https://www.kaggle.com/datasets/imbishal7/math-olympiad-problems-and-solutions-aops
 
 # Description of JSON:
